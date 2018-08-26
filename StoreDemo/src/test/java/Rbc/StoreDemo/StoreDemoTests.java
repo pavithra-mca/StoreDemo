@@ -218,7 +218,7 @@ WebElement ProdCategoryLink= wait.until(ExpectedConditions.elementToBeClickable(
 	
 	CheckoutElement.click();
 	ScreenShort();
-	Thread.sleep(1000);
+	
 	
 	
     
